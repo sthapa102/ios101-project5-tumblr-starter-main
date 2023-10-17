@@ -1,4 +1,4 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *FetchAPITUMBLR*
 
 Submitted by: **Your Name Here**
 
@@ -32,9 +32,7 @@ The following **additional** features are implemented:
     </a>
   </div>
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
