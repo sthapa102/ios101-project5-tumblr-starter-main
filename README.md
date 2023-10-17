@@ -2,16 +2,16 @@
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is an app that ... [TODO] 
+**Tumblr Fetch API ** is an app that gets new article from Tumblr ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App has a configured table view and table view call
-- [ ] App populates the table view with data fetched from an API
+- [x] App has a configured table view and table view call
+- [x] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
